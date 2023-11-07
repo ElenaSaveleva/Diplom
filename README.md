@@ -1,7 +1,7 @@
 #### :briefcase: Это дипломный проект на тему «Модель прогнозирования стоимости жилья для агентства недвижимости»
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/ElenaSaveleva/Diplom/blob/main/README.md#Описание-проекта))  
+[1. Описание проекта](https://github.com/ElenaSaveleva/Diplom/blob/main/README.md#Описание-проекта)
 [2. Входные данные](https://github.com/ElenaSaveleva/Diplom/blob/main/README.md#Входные-данные)  
 [3. Выводы](https://github.com/ElenaSaveleva/Diplom/blob/main/README.md#Выводы) 
 
